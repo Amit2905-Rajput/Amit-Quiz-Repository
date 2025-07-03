@@ -4,6 +4,10 @@ This project was about working with healthcare data to understand and prepare it
 
 After cleaning the data, it was split into training and testing sets to help build a model in the future. These steps are very important before creating any machine learning model. The work done shows a good understanding of data handling and preparation. To improve this project, adding a model and checking its performance would be helpful. This will show how well the data can be used to predict healthcare costs or other outcomes.
 
+Google Collab Link-
+https://colab.research.google.com/drive/18XwUMbhxXFSfe2U0t_i2BtLJSfEYZe3L#scrollTo=ysB3YqdoWhcw
+
+
 
 
 
